@@ -15,7 +15,7 @@ b=(a.upper())
 c=(b[0:2]) 
 
 #setting background
-img1=Image.open("bg.png")
+img1=Image.open("g3.jpg")
 img2= ImageTk.PhotoImage(img1)
 Label(w,image=img2).place(x=-2,y=0)
 
